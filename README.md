@@ -1,4 +1,6 @@
 <img height="30px" src = "https://profile-counter.glitch.me/trongngo148/count.svg" alt ="Loading">
+
+[![Visits Badge](https://badges.pufler.dev/visits/trongngo148/trongngo148)](linkedin.com/in/jonathan-ngo148)
 ### Hi there 👋
 
 <!--
