@@ -1,6 +1,6 @@
-<!-- <img height="30px" src = "https://profile-counter.glitch.me/trongngo148/count.svg" alt ="Loading"> -->
+<img height="30px" src = "https://profile-counter.glitch.me/trongngo148/count.svg" alt ="Loading">
 
-[![Visits Badge](https://badges.pufler.dev/visits/trongngo148/trongngo148)](linkedin.com/in/jonathan-ngo148)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/trongngo148/trongngo148)](linkedin.com/in/jonathan-ngo148) -->
 ### Hi there 👋
 
 <!--
@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=jonathanngo148&show_icons=true&icon_color=4B8EDF&text_color=5C6998&bg_color=ffffff&hide_title=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanngo148&layout=compact) 
+
