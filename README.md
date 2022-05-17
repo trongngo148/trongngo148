@@ -1,3 +1,4 @@
+<img height="30px" src = "https://profile-counter.glitch.me/trongngo148/count.svg" alt ="Loading">
 ### Hi there 👋
 
 <!--
