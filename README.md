@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=trongngo148&show_icons=true&icon_color=4B8EDF&text_color=5C6998&bg_color=ffffff&hide_title=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=trongngo148&layout=compact) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trongngo148&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
