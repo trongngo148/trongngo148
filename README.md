@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trongngo148&layout=compact) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongngo148&show_icons=true&theme=radical)
