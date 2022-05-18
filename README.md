@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://eloquent-llama-c52549.netlify.app/api?username=trongngo148&show_icons=true&icon_color=4B8EDF&text_color=5C6998&bg_color=ffffff&hide_title=false)
+<!-- ![](https://eloquent-llama-c52549.netlify.app/api?username=trongngo148&show_icons=true&icon_color=4B8EDF&text_color=5C6998&bg_color=ffffff&hide_title=false)
 
 ![](https://eloquent-llama-c52549.netlify.app/api/top-langs/?username=trongngo148&layout=compact) 
-
+ -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongngo148&show_icons=true&theme=radical) -->
