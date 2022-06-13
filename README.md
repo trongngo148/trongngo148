@@ -1,7 +1,7 @@
 <img height="30px" src = "https://profile-counter.glitch.me/trongngo148/count.svg" alt ="Loading">
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/trongngo148/trongngo148)](linkedin.com/in/jonathan-ngo148) -->
-### Hi there 👋
+### Hi there 👋 I'm a Software Engineer at @bmwna. Born and Living in VietNam
 
 <!--
 **trongngo148/trongngo148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
