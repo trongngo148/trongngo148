@@ -1,7 +1,5 @@
 <img height="30px" src = "https://profile-counter.glitch.me/trongngo148/count.svg" alt ="Loading">
 
-<a href="https://app.daily.dev/jonathan_ngo"><img src="https://api.daily.dev/devcards/f41e9202eff048198bdeaa93bd0e45c3.png?r=63y" width="400" alt="Jonthan Ngo's Dev Card"/></a>
-
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/trongngo148/trongngo148)](linkedin.com/in/jonathan-ngo148) -->
 ### Hi there 👋 I'm a Software Engineer. Born and Living in Viet Nam.
 
