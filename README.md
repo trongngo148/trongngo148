@@ -1,7 +1,7 @@
 <img height="30px" src = "https://profile-counter.glitch.me/trongngo148/count.svg" alt ="Loading">
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/trongngo148/trongngo148)](linkedin.com/in/jonathan-ngo148) -->
-### Hi folks 👋 I am a full-stack website developer proficient in Angular and Asp.Net Core. I'm passionate about problem-solving and using effective modeling to create well-designed systems. Additionally, I enjoy playing and developing video games. Nice to meet you!
+Hi folks 👋 I am a full-stack website developer proficient in Angular and Asp.Net Core. I'm passionate about problem-solving and using effective modeling to create well-designed systems. Additionally, I enjoy playing and developing video games. Nice to meet you!
 
 ### Touch me on Linkedin: [JonathanNgo](https://www.linkedin.com/in/jonathan-ngo148/?fbclid=IwAR0ddBOeNEedryN5kAXRTA-DLGcjdwPaX1CBEqdCDvkjw81RQLxCrXBnyrc)
 <!--
